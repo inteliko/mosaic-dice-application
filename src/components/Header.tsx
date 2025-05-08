@@ -53,11 +53,7 @@ const Header = () => {
                 Blog
               </Link>
             </li>
-            <li>
-              <Button size="sm" className="bg-dice-primary hover:bg-dice-secondary rounded-full">
-                Get Started
-              </Button>
-            </li>
+           
           </ul>
         </nav>
         
