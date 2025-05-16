@@ -22,7 +22,7 @@ const Header = () => {
         <div className="flex items-center gap-2">
           <span role="img" aria-label="dice" className="text-2xl">🎲</span>
           <Link to="/" className="text-xl md:text-2xl font-bold bg-gradient-to-r from-dice-primary to-dice-secondary bg-clip-text text-transparent">
-            Dice Mosaic Generator
+            Dices by Ceez
           </Link>
         </div>
         

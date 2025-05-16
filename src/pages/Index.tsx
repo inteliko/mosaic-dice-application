@@ -188,7 +188,7 @@ const Index = () => {
   return (
     <div className="flex flex-col min-h-screen bg-white">
       <Helmet>
-        <title>Dice Mosaic Generator | Transform Images into Dice Art</title>
+        <title>Dices by Ceez | Images to Dice Art </title>
         <meta name="description" content="Create beautiful dice mosaics from your images. Transform photos into unique artwork made entirely of dice." />
       </Helmet>
       
